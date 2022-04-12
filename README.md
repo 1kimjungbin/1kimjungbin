@@ -6,6 +6,7 @@
     <Strong>☁️SNS list☁️</Strong><br><br>
     <div id="logo" align="center">
     <a href="https://www.instagram.com/kxx_jb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+        <a href="https://far-lightyear-a2b.notion.site/1Kimjungbin-s-Notion-6ba5870506d04cc7ab8c046ba7087f8a" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1kimjungbin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
