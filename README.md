@@ -38,9 +38,12 @@
 </p><br>
 
 <p align="center">
-    <Strong>✒️Study-ing⚒✒️</Strong><br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <Strong>✒️Study-ing✒️</Strong><br>
 </p>
+
+<p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</p><br>
 
 
 <br>
